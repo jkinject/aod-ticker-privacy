@@ -1,4 +1,4 @@
-# 코인 시세 위젯 개인정보 처리방침
+# Crypto AOD 개인정보 처리방침
 
 게시 주소: https://jkinject.github.io/aod-ticker-privacy/
 
